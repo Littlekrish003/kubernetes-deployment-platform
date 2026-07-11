@@ -95,21 +95,3 @@ Gowtham B
 MCA Student | AWS Certified Cloud Practitioner
 
 Interested in Cloud Computing, AWS, DevOps, Docker, and Kubernetes
-
-## Project Screenshots
-
-### Kubernetes Web Application
-
-![Kubernetes Web Application](screenshots/application.png)
-
-### Kubernetes Pods
-
-![Kubernetes Pods](screenshots/pods.png)
-
-### Horizontal Pod Autoscaling
-
-![Horizontal Pod Autoscaling](screenshots/hpa.png)
-
-### Kubernetes Resource Monitoring
-
-![Resource Monitoring](screenshots/resource-monitoring.png)
