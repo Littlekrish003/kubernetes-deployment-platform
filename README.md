@@ -87,6 +87,27 @@ kubernetes-deployment-platform/
 - Liveness probe for container health monitoring
 - Readiness probe for application traffic management
 
+## Project Screenshots
+
+### 1. Kubernetes Application – Version 1
+
+![Kubernetes Application Version 1](screenshots/application.png)
+
+### 2. Kubernetes Application – Version 2
+
+![Kubernetes Application Version 2](screenshots/applicationversion2.png)
+
+### 3. Kubernetes Rolling Update – Version 2
+
+![Kubernetes Version 2 Deployment](screenshots/kubernetesversion2.png)
+
+### 4. Kubernetes Pods Running
+
+![Kubernetes Pods](screenshots/pods.png)
+
+### 5. AWS EC2 Security Group Configuration
+
+![AWS EC2 Security Group](screenshots/securitygroup.png)
 
 ## Author
 
